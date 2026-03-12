@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Bassline",
+  "base_artist": "Ayumu Imazu",
+  "createdAt": "2026-03-12T18:00:01.240966Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "When You Hear The Bassline (Feat. Ms. Thing)",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/01_When_You_Hear_The_Bassline_(Feat._Ms._Thing)_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bassline",
+      "artist": "Miss Kittin",
+      "has_synced": true,
+      "path": "select/02_Bassline_Miss_Kittin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bassline",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/03_Bassline_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bassline",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/04_Bassline_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Believe (Pinch's 'I Believe in Bassline Therapy' Remix)",
+      "artist": "Simian Mobile Disco",
+      "has_synced": false,
+      "path": "select/05_I_Believe_(Pinch's_'I_Believe_in_Bassline_Therapy'_Remix)_Simian_Mobile_Disco.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bassline Kickin",
+      "artist": "Pegboard Nerds",
+      "has_synced": true,
+      "path": "select/06_Bassline_Kickin_Pegboard_Nerds.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bassline Kickin (Astronaut Remix)",
+      "artist": "Pegboard Nerds",
+      "has_synced": false,
+      "path": "select/07_Bassline_Kickin_(Astronaut_Remix)_Pegboard_Nerds.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bassline Kickin (Silverback Remix)",
+      "artist": "Pegboard Nerds",
+      "has_synced": true,
+      "path": "select/08_Bassline_Kickin_(Silverback_Remix)_Pegboard_Nerds.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bassline Junkie",
+      "artist": "Dizzee Rascal",
+      "has_synced": false,
+      "path": "select/09_Bassline_Junkie_Dizzee_Rascal.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Plastic Dreams (Wideboys Bassline mix)",
+      "artist": "Jaydee",
+      "has_synced": false,
+      "path": "select/10_Plastic_Dreams_(Wideboys_Bassline_mix)_Jaydee.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Show Me Love (Wideboys Bassline mix)",
+      "artist": "Mobin Master feat. Robin S",
+      "has_synced": false,
+      "path": "select/11_Show_Me_Love_(Wideboys_Bassline_mix)_Mobin_Master_feat._Robin_S.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Show Me Love (Wideboys Bassline Mix)",
+      "artist": "Mobin Master Ft. Robin S.",
+      "has_synced": false,
+      "path": "select/12_Show_Me_Love_(Wideboys_Bassline_Mix)_Mobin_Master_Ft._Robin_S..txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bassline Junkie",
+      "artist": "Dizzee Rascal",
+      "has_synced": false,
+      "path": "select/13_Bassline_Junkie_Dizzee_Rascal.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bassline",
+      "artist": "Ayumu Imazu",
+      "has_synced": false,
+      "path": "select/pl_01_Bassline_Ayumu_Imazu.txt"
+    }
+  ]
+}
